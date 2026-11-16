@@ -1,4 +1,3 @@
-
 # Analyst Portfolio
 
 This repository contains my personal **Data Analyst Portfolio website**, built to showcase my projects, skills, background, and resume.
