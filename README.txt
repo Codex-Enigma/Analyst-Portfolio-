@@ -2,7 +2,7 @@
 
 Welcome to my personal **Data Analyst Portfolio** repository.
 
-This repository contains the source code and assets for my portfolio website, which showcases my background, analytical projects, technical skills, and resume.
+This repository contains the source code and assets for my portfolio website, showcasing my background, analytical projects, technical skills, and resume.
 
 🌐 **Live Portfolio:**  
 https://codex-enigma.github.io/Analyst-Portfolio-/
@@ -11,7 +11,7 @@ https://codex-enigma.github.io/Analyst-Portfolio-/
 
 ## 📌 About the Portfolio
 
-The portfolio is designed to provide a simple and professional overview of my journey as a Data Analyst.
+The portfolio provides a professional overview of my journey as a Data Analyst.
 
 It includes:
 
@@ -22,64 +22,51 @@ It includes:
 - Technical and analytical skills
 - Personal background and interests
 - Downloadable resume
-- Links to GitHub repositories and external dashboards/applications
+- Links to GitHub repositories, dashboards, and applications
 
 ---
 
 ## 🗂️ Repository Structure
 
-```text
-Analyst-Portfolio-/
-│
-├── index.html
-├── Portfolio.html
-├── About-Me.html
-├── Resume.html
-├── Resume.pdf
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── webfonts/
-│
-└── images/
-```
+The repository contains the following main files and folders:
 
-### 📄 Main Pages
+**`index.html`** — Entry point for the GitHub Pages website
 
-| File | Description |
-|---|---|
-| `index.html` | Entry point for the GitHub Pages website |
-| `Portfolio.html` | Main portfolio page containing projects |
-| `About-Me.html` | Personal background, interests, and professional profile |
-| `Resume.html` | Skills, experience overview, and resume information |
-| `Resume.pdf` | Downloadable PDF version of my resume |
+**`Portfolio.html`** — Main portfolio page containing my projects
+
+**`About-Me.html`** — Personal background, interests, and professional profile
+
+**`Resume.html`** — Skills, experience overview, and resume information
+
+**`Resume.pdf`** — Downloadable PDF version of my resume
+
+**`assets/`** — CSS, JavaScript, fonts, and other website resources
+
+**`images/`** — Images used throughout the portfolio
 
 ---
 
 ## 🛠️ Technologies Used
 
-The portfolio website is built using:
-
 - **HTML5** — Website structure
 - **CSS3** — Styling and responsive design
 - **JavaScript** — Website functionality
 - **jQuery** — Interactive functionality
-- **GitHub Pages** — Website hosting and deployment
+- **GitHub Pages** — Hosting and deployment
 
 ---
 
 ## 🎨 Website Design
 
-The portfolio uses the **Massively** HTML5 UP template as its design foundation.
+The portfolio uses the **Massively** template by HTML5 UP as its design foundation.
 
 The template provides the responsive layout, navigation structure, styling, and overall visual framework of the website.
 
-The website has been customized to showcase my own:
+The website has been customized to showcase my:
 
 - Profile
-- Projects
-- Skills
+- Data analysis projects
+- Technical skills
 - Resume
 - Contact information
 - External project links
@@ -88,15 +75,15 @@ The website has been customized to showcase my own:
 
 ## 🌐 Website Pages
 
-### Portfolio
+### 📊 Portfolio
 
 The main page showcases my data analytics projects and provides links to project repositories, dashboards, and applications.
 
-### About Me
+### 👤 About Me
 
 Provides information about my educational background, interests, career direction, and approach to data analytics.
 
-### Resume
+### 📄 Resume
 
 Contains an overview of my technical and non-technical skills and provides access to my downloadable resume.
 
@@ -106,13 +93,11 @@ Contains an overview of my technical and non-technical skills and provides acces
 
 The portfolio is deployed using **GitHub Pages**.
 
-### Deployment Configuration
+**Deployment configuration:**
 
-```text
-Source: Deploy from a branch
-Branch: main
-Folder: / (root)
-```
+- **Source:** Deploy from a branch
+- **Branch:** `main`
+- **Folder:** `/ (root)`
 
 The `index.html` file acts as the entry point for the website and redirects visitors to the main `Portfolio.html` page.
 
@@ -126,7 +111,7 @@ To update the website:
 2. Add or update images inside the `images/` directory.
 3. Update project links when adding new projects.
 4. Commit the changes to the `main` branch.
-5. GitHub Pages automatically deploys the changes.
+5. GitHub Pages automatically deploys the updated website.
 
 ---
 
@@ -138,23 +123,23 @@ This portfolio was created using the following resources:
 
 The website design and base template are adapted from **Massively by HTML5 UP**.
 
-🔗 https://html5up.net/massively
+https://html5up.net/massively
 
 ### HTML5 UP
 
-🔗 https://html5up.net/
+https://html5up.net/
 
 ### GitHub Pages
 
 Used for hosting and deploying the portfolio website.
 
-🔗 https://pages.github.com/
+https://pages.github.com/
 
 ### Font Awesome
 
 Used for icons throughout the website.
 
-🔗 https://fontawesome.com/
+https://fontawesome.com/
 
 All external resources are used in accordance with their respective licenses and attribution requirements.
 
@@ -179,6 +164,8 @@ This repository contains my personal portfolio content and customizations.
 
 The website design is based on the **Massively** template by HTML5 UP and remains subject to its original licensing terms.
 
-**Template:** Massively by HTML5 UP  
-**License:** Creative Commons Attribution 3.0  
+**Template:** Massively by HTML5 UP
+
+**License:** Creative Commons Attribution 3.0
+
 https://html5up.net/license
