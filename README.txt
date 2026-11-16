@@ -15,7 +15,7 @@ This repository contains the source code, assets, and configuration for my perso
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a **Data Analyst** with a background in **Accounting and Finance**, passionate about using data to understand problems, uncover patterns, and generate meaningful insights.
 
@@ -31,7 +31,7 @@ My portfolio brings together my work across:
 
 ---
 
-# 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
 The website is organized into three primary sections:
 
@@ -49,34 +49,23 @@ Provides an overview of my skills and experience along with access to my downloa
 
 ---
 
-# 🗂️ Repository Structure
+## 🗂️ Repository Structure
 
 The repository is organized as follows:
 
-**`index.html`**  
-Entry point for the GitHub Pages website. It redirects visitors to the main portfolio page.
-
-**`Portfolio.html`**  
-Main portfolio page containing my projects and project links.
-
-**`About-Me.html`**  
-Personal profile, background, interests, and career information.
-
-**`Resume.html`**  
-Resume page containing my skills, experience overview, and downloadable resume.
-
-**`Resume.pdf`**  
-PDF version of my resume.
-
-**`assets/`**  
-Contains the website's CSS, JavaScript, fonts, and supporting resources.
-
-**`images/`**  
-Contains images used throughout the portfolio website.
+| File / Folder | Description |
+|---|---|
+| **`index.html`** | Entry point for the GitHub Pages website. Redirects visitors to the main portfolio page. |
+| **`Portfolio.html`** | Main portfolio page containing my projects and project links. |
+| **`About-Me.html`** | Personal profile, background, interests, and career information. |
+| **`Resume.html`** | Resume page containing my skills, experience overview, and downloadable resume. |
+| **`Resume.pdf`** | PDF version of my resume. |
+| **`assets/`** | Website CSS, JavaScript, fonts, and supporting resources. |
+| **`images/`** | Images used throughout the portfolio website. |
 
 ---
 
-# 🛠️ Technologies
+## 🛠️ Technologies
 
 The portfolio website is built using:
 
@@ -90,7 +79,7 @@ The portfolio website is built using:
 
 ---
 
-# 🎨 Design & Customization
+## 🎨 Design & Customization
 
 The portfolio is based on the **Massively** template by **HTML5 UP**.
 
@@ -104,30 +93,30 @@ The original template provides the foundation for:
 - Styling
 - Interactive elements
 
-I customized the template to create my own personal portfolio, including my:
+I customized the template to create my own personal portfolio, including:
 
-- Profile
-- Data analytics projects
-- Skills
-- Resume
-- Contact information
-- Project links
+- 👤 Profile
+- 📊 Data analytics projects
+- 🛠️ Technical skills
+- 📄 Resume
+- 🔗 Project links
+- 📫 Contact information
 
 ---
 
-# 🚀 Deployment
+## 🚀 Deployment
 
 The website is hosted using **GitHub Pages**.
 
 ### Deployment Configuration
 
-**Source:** Deploy from a branch
+| Setting | Configuration |
+|---|---|
+| **Source** | Deploy from a branch |
+| **Branch** | `main` |
+| **Folder** | `/` (root) |
 
-**Branch:** `main`
-
-**Folder:** `/ (root)`
-
-The website automatically updates when changes are committed to the `main` branch.
+Changes committed to the `main` branch are automatically deployed through GitHub Pages.
 
 ### 🌐 Live Website
 
@@ -135,7 +124,7 @@ The website automatically updates when changes are committed to the `main` branc
 
 ---
 
-# 🔄 How I Update the Portfolio
+## 🔄 How I Update the Portfolio
 
 When adding or modifying content:
 
@@ -147,37 +136,41 @@ When adding or modifying content:
 
 ---
 
-# 📚 Credits & Resources
+## 📚 Credits & Resources
 
-This portfolio was created with the help of the following resources.
+This portfolio was created using and learning from the following resources.
 
 ### 🎨 HTML5 UP — Massively
 
 The **Massively** template was used as the foundation for the website design.
 
+**Website:**  
 https://html5up.net/massively
 
 ### 🌐 HTML5 UP
 
+**Website:**  
 https://html5up.net/
 
 ### 🚀 GitHub Pages
 
 Used to host and deploy the portfolio website.
 
+**Website:**  
 https://pages.github.com/
 
 ### ⭐ Font Awesome
 
 Used for icons throughout the website.
 
+**Website:**  
 https://fontawesome.com/
 
 All external resources are used in accordance with their respective licenses and attribution requirements.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 ### 💼 LinkedIn
 
@@ -193,7 +186,7 @@ https://codex-enigma.github.io/Analyst-Portfolio-/
 
 ---
 
-# 📄 License
+## 📄 License
 
 This repository contains my personal portfolio content and customizations.
 
