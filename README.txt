@@ -1,141 +1,173 @@
-# 📊 Data Analyst Portfolio
+# 📊 Pranay Mody — Data Analyst Portfolio
 
-Welcome to my personal **Data Analyst Portfolio** repository.
+### Turning Data Into Actionable Insights
 
-This repository contains the source code and assets for my portfolio website, showcasing my background, analytical projects, technical skills, and resume.
+Welcome to my **Data Analyst Portfolio** repository.
 
-🌐 **Live Portfolio:**  
-https://codex-enigma.github.io/Analyst-Portfolio-/
+This repository contains the source code, assets, and configuration for my personal portfolio website. The website showcases my **data analytics projects, technical skills, professional background, and resume**.
 
----
+<p align="center">
 
-## 📌 About the Portfolio
+🔗 **Live Portfolio:**  
+**https://codex-enigma.github.io/Analyst-Portfolio-/**
 
-The portfolio provides a professional overview of my journey as a Data Analyst.
-
-It includes:
-
-- Data analysis projects
-- SQL projects
-- Python projects
-- Data visualization work
-- Technical and analytical skills
-- Personal background and interests
-- Downloadable resume
-- Links to GitHub repositories, dashboards, and applications
+</p>
 
 ---
 
-## 🗂️ Repository Structure
+# 👨‍💻 About Me
 
-The repository contains the following main files and folders:
+I am a **Data Analyst** with a background in **Accounting and Finance**, passionate about using data to understand problems, uncover patterns, and generate meaningful insights.
 
-**`index.html`** — Entry point for the GitHub Pages website
+My portfolio brings together my work across:
 
-**`Portfolio.html`** — Main portfolio page containing my projects
-
-**`About-Me.html`** — Personal background, interests, and professional profile
-
-**`Resume.html`** — Skills, experience overview, and resume information
-
-**`Resume.pdf`** — Downloadable PDF version of my resume
-
-**`assets/`** — CSS, JavaScript, fonts, and other website resources
-
-**`images/`** — Images used throughout the portfolio
+- 📊 Data Analysis
+- 🗄️ SQL & Database Management
+- 🐍 Python
+- 📈 Data Visualization
+- 📉 Tableau & Power BI
+- 💰 Financial Analysis
+- 🌱 Projects with social and environmental impact
 
 ---
 
-## 🛠️ Technologies Used
+# 🌐 Portfolio Website
 
-- **HTML5** — Website structure
-- **CSS3** — Styling and responsive design
-- **JavaScript** — Website functionality
-- **jQuery** — Interactive functionality
-- **GitHub Pages** — Hosting and deployment
-
----
-
-## 🎨 Website Design
-
-The portfolio uses the **Massively** template by HTML5 UP as its design foundation.
-
-The template provides the responsive layout, navigation structure, styling, and overall visual framework of the website.
-
-The website has been customized to showcase my:
-
-- Profile
-- Data analysis projects
-- Technical skills
-- Resume
-- Contact information
-- External project links
-
----
-
-## 🌐 Website Pages
+The website is organized into three primary sections:
 
 ### 📊 Portfolio
 
-The main page showcases my data analytics projects and provides links to project repositories, dashboards, and applications.
+Showcases my data analytics projects, including links to project repositories, dashboards, and applications.
 
 ### 👤 About Me
 
-Provides information about my educational background, interests, career direction, and approach to data analytics.
+Provides an overview of my educational background, interests, career direction, and journey into data analytics.
 
 ### 📄 Resume
 
-Contains an overview of my technical and non-technical skills and provides access to my downloadable resume.
+Provides an overview of my skills and experience along with access to my downloadable resume.
 
 ---
 
-## 🚀 Deployment
+# 🗂️ Repository Structure
 
-The portfolio is deployed using **GitHub Pages**.
+The repository is organized as follows:
 
-**Deployment configuration:**
+**`index.html`**  
+Entry point for the GitHub Pages website. It redirects visitors to the main portfolio page.
 
-- **Source:** Deploy from a branch
-- **Branch:** `main`
-- **Folder:** `/ (root)`
+**`Portfolio.html`**  
+Main portfolio page containing my projects and project links.
 
-The `index.html` file acts as the entry point for the website and redirects visitors to the main `Portfolio.html` page.
+**`About-Me.html`**  
+Personal profile, background, interests, and career information.
+
+**`Resume.html`**  
+Resume page containing my skills, experience overview, and downloadable resume.
+
+**`Resume.pdf`**  
+PDF version of my resume.
+
+**`assets/`**  
+Contains the website's CSS, JavaScript, fonts, and supporting resources.
+
+**`images/`**  
+Contains images used throughout the portfolio website.
 
 ---
 
-## 🔄 Updating the Portfolio
+# 🛠️ Technologies
 
-To update the website:
+The portfolio website is built using:
 
-1. Modify the relevant HTML file.
-2. Add or update images inside the `images/` directory.
-3. Update project links when adding new projects.
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Website structure |
+| **CSS3** | Styling and responsive design |
+| **JavaScript** | Website functionality |
+| **jQuery** | Interactive components |
+| **GitHub Pages** | Hosting and deployment |
+
+---
+
+# 🎨 Design & Customization
+
+The portfolio is based on the **Massively** template by **HTML5 UP**.
+
+The original template provides the foundation for:
+
+- Responsive page layout
+- Navigation
+- Typography
+- Page structure
+- Animations
+- Styling
+- Interactive elements
+
+I customized the template to create my own personal portfolio, including my:
+
+- Profile
+- Data analytics projects
+- Skills
+- Resume
+- Contact information
+- Project links
+
+---
+
+# 🚀 Deployment
+
+The website is hosted using **GitHub Pages**.
+
+### Deployment Configuration
+
+**Source:** Deploy from a branch
+
+**Branch:** `main`
+
+**Folder:** `/ (root)`
+
+The website automatically updates when changes are committed to the `main` branch.
+
+### 🌐 Live Website
+
+**https://codex-enigma.github.io/Analyst-Portfolio-/**
+
+---
+
+# 🔄 How I Update the Portfolio
+
+When adding or modifying content:
+
+1. Update the relevant HTML page.
+2. Add or replace images in the `images/` folder.
+3. Update project links where required.
 4. Commit the changes to the `main` branch.
 5. GitHub Pages automatically deploys the updated website.
 
 ---
 
-## 📚 Credits & Resources
+# 📚 Credits & Resources
 
-This portfolio was created using the following resources:
+This portfolio was created with the help of the following resources.
 
-### HTML5 UP — Massively
+### 🎨 HTML5 UP — Massively
 
-The website design and base template are adapted from **Massively by HTML5 UP**.
+The **Massively** template was used as the foundation for the website design.
 
 https://html5up.net/massively
 
-### HTML5 UP
+### 🌐 HTML5 UP
 
 https://html5up.net/
 
-### GitHub Pages
+### 🚀 GitHub Pages
 
-Used for hosting and deploying the portfolio website.
+Used to host and deploy the portfolio website.
 
 https://pages.github.com/
 
-### Font Awesome
+### ⭐ Font Awesome
 
 Used for icons throughout the website.
 
@@ -145,20 +177,23 @@ All external resources are used in accordance with their respective licenses and
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-**LinkedIn:**  
+### 💼 LinkedIn
+
 https://www.linkedin.com/in/pranay-mody-13b849234/
 
-**GitHub:**  
+### 💻 GitHub
+
 https://github.com/Codex-Enigma
 
-**Portfolio:**  
+### 🌐 Portfolio
+
 https://codex-enigma.github.io/Analyst-Portfolio-/
 
 ---
 
-## 📄 License
+# 📄 License
 
 This repository contains my personal portfolio content and customizations.
 
@@ -169,3 +204,13 @@ The website design is based on the **Massively** template by HTML5 UP and remain
 **License:** Creative Commons Attribution 3.0
 
 https://html5up.net/license
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my portfolio!
+
+**Feel free to explore the projects and connect with me.**
+
+</p>
