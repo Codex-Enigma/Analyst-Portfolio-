@@ -6,12 +6,11 @@ Welcome to my **Data Analyst Portfolio** repository.
 
 This repository contains the source code, assets, and configuration for my personal portfolio website. The website showcases my **data analytics projects, technical skills, professional background, and resume**.
 
-<p align="center">
+---
 
-🔗 **Live Portfolio:**  
-**https://codex-enigma.github.io/Analyst-Portfolio-/**
+## 🌐 Live Portfolio
 
-</p>
+🔗 **[Visit My Portfolio](https://codex-enigma.github.io/Analyst-Portfolio-/)**
 
 ---
 
@@ -27,13 +26,13 @@ My portfolio brings together my work across:
 - 📈 Data Visualization
 - 📉 Tableau & Power BI
 - 💰 Financial Analysis
-- 🌱 Projects with social and environmental impact
+- 🌱 Social and Environmental Impact
 
 ---
 
 ## 🌐 Portfolio Website
 
-The website is organized into three primary sections:
+The website is organized into three primary sections.
 
 ### 📊 Portfolio
 
@@ -51,17 +50,15 @@ Provides an overview of my skills and experience along with access to my downloa
 
 ## 🗂️ Repository Structure
 
-The repository is organized as follows:
-
 | File / Folder | Description |
 |---|---|
-| **`index.html`** | Entry point for the GitHub Pages website. Redirects visitors to the main portfolio page. |
-| **`Portfolio.html`** | Main portfolio page containing my projects and project links. |
-| **`About-Me.html`** | Personal profile, background, interests, and career information. |
-| **`Resume.html`** | Resume page containing my skills, experience overview, and downloadable resume. |
-| **`Resume.pdf`** | PDF version of my resume. |
-| **`assets/`** | Website CSS, JavaScript, fonts, and supporting resources. |
-| **`images/`** | Images used throughout the portfolio website. |
+| `index.html` | Entry point for the GitHub Pages website. Redirects visitors to the main portfolio page. |
+| `Portfolio.html` | Main portfolio page containing my projects and project links. |
+| `About-Me.html` | Personal profile, background, interests, and career information. |
+| `Resume.html` | Resume page containing my skills, experience overview, and downloadable resume. |
+| `Resume.pdf` | PDF version of my resume. |
+| `assets/` | Website CSS, JavaScript, fonts, and supporting resources. |
+| `images/` | Images used throughout the portfolio website. |
 
 ---
 
@@ -83,6 +80,8 @@ The portfolio website is built using:
 
 The portfolio is based on the **Massively** template by **HTML5 UP**.
 
+### ✨ Template Features
+
 The original template provides the foundation for:
 
 - Responsive page layout
@@ -93,9 +92,11 @@ The original template provides the foundation for:
 - Styling
 - Interactive elements
 
+### 🔧 My Customizations
+
 I customized the template to create my own personal portfolio, including:
 
-- 👤 Profile
+- 👤 Personal profile
 - 📊 Data analytics projects
 - 🛠️ Technical skills
 - 📄 Resume
@@ -108,7 +109,7 @@ I customized the template to create my own personal portfolio, including:
 
 The website is hosted using **GitHub Pages**.
 
-### Deployment Configuration
+### ⚙️ Deployment Configuration
 
 | Setting | Configuration |
 |---|---|
@@ -120,7 +121,7 @@ Changes committed to the `main` branch are automatically deployed through GitHub
 
 ### 🌐 Live Website
 
-**https://codex-enigma.github.io/Analyst-Portfolio-/**
+🔗 **[Portfolio Website](https://codex-enigma.github.io/Analyst-Portfolio-/)**
 
 ---
 
@@ -144,29 +145,25 @@ This portfolio was created using and learning from the following resources.
 
 The **Massively** template was used as the foundation for the website design.
 
-**Website:**  
-https://html5up.net/massively
+🔗 [HTML5 UP — Massively](https://html5up.net/massively)
 
 ### 🌐 HTML5 UP
 
-**Website:**  
-https://html5up.net/
+🔗 [HTML5 UP](https://html5up.net/)
 
 ### 🚀 GitHub Pages
 
 Used to host and deploy the portfolio website.
 
-**Website:**  
-https://pages.github.com/
+🔗 [GitHub Pages](https://pages.github.com/)
 
 ### ⭐ Font Awesome
 
 Used for icons throughout the website.
 
-**Website:**  
-https://fontawesome.com/
+🔗 [Font Awesome](https://fontawesome.com/)
 
-All external resources are used in accordance with their respective licenses and attribution requirements.
+> All external resources are used in accordance with their respective licenses and attribution requirements.
 
 ---
 
@@ -174,15 +171,15 @@ All external resources are used in accordance with their respective licenses and
 
 ### 💼 LinkedIn
 
-https://www.linkedin.com/in/pranay-mody-13b849234/
+🔗 [LinkedIn](https://www.linkedin.com/in/pranay-mody-13b849234/)
 
 ### 💻 GitHub
 
-https://github.com/Codex-Enigma
+🔗 [GitHub](https://github.com/Codex-Enigma)
 
 ### 🌐 Portfolio
 
-https://codex-enigma.github.io/Analyst-Portfolio-/
+🔗 [Portfolio Website](https://codex-enigma.github.io/Analyst-Portfolio-/)
 
 ---
 
@@ -192,17 +189,19 @@ This repository contains my personal portfolio content and customizations.
 
 The website design is based on the **Massively** template by HTML5 UP and remains subject to its original licensing terms.
 
+### 📜 Template License
+
 **Template:** Massively by HTML5 UP
 
 **License:** Creative Commons Attribution 3.0
 
-https://html5up.net/license
+🔗 [HTML5 UP License](https://html5up.net/license)
 
 ---
 
-<p align="center">
+## ⭐ Thanks for Visiting!
 
-### ⭐ Thanks for visiting my portfolio!
+<p align="center">
 
 **Feel free to explore the projects and connect with me.**
 
