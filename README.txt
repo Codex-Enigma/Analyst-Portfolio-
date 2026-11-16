@@ -1,6 +1,6 @@
-# 📊 Pranay Mody — Data Analyst Portfolio
+<h1 align="center">📊 Pranay Mody — Data Analyst Portfolio</h1>
 
-### Turning Data Into Actionable Insights
+<h3 align="center">Turning Data Into Actionable Insights</h3>
 
 Welcome to my **Data Analyst Portfolio** repository.
 
@@ -20,19 +20,19 @@ I am a **Data Analyst** with a background in **Accounting and Finance**, passion
 
 My portfolio brings together my work across:
 
-- 📊 Data Analysis
-- 🗄️ SQL & Database Management
-- 🐍 Python
-- 📈 Data Visualization
-- 📉 Tableau & Power BI
-- 💰 Financial Analysis
-- 🌱 Social and Environmental Impact
+- 📊 **Data Analysis**
+- 🗄️ **SQL & Database Management**
+- 🐍 **Python**
+- 📈 **Data Visualization**
+- 📉 **Tableau & Power BI**
+- 💰 **Financial Analysis**
+- 🌱 **Social and Environmental Impact**
 
 ---
 
 ## 🌐 Portfolio Website
 
-The website is organized into three primary sections.
+The website is organized into three primary sections:
 
 ### 📊 Portfolio
 
@@ -62,17 +62,15 @@ Provides an overview of my skills and experience along with access to my downloa
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 The portfolio website is built using:
 
-| Technology | Purpose |
-|---|---|
-| **HTML5** | Website structure |
-| **CSS3** | Styling and responsive design |
-| **JavaScript** | Website functionality |
-| **jQuery** | Interactive components |
-| **GitHub Pages** | Hosting and deployment |
+- **HTML5** — Website structure
+- **CSS3** — Styling and responsive design
+- **JavaScript** — Website functionality
+- **jQuery** — Interactive components
+- **GitHub Pages** — Hosting and deployment
 
 ---
 
@@ -121,7 +119,7 @@ Changes committed to the `main` branch are automatically deployed through GitHub
 
 ### 🌐 Live Website
 
-🔗 **[Portfolio Website](https://codex-enigma.github.io/Analyst-Portfolio-/)**
+🔗 **[Visit My Portfolio](https://codex-enigma.github.io/Analyst-Portfolio-/)**
 
 ---
 
@@ -199,7 +197,7 @@ The website design is based on the **Massively** template by HTML5 UP and remain
 
 ---
 
-## ⭐ Thanks for Visiting!
+<h2 align="center">⭐ Thanks for Visiting!</h2>
 
 <p align="center">
 
